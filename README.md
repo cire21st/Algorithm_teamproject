@@ -24,7 +24,7 @@ This system automatically manages **core subjects**, such as major and general e
 The directory structure for this repository is as follows:
 
 <pre>
-Exemplary_Timetable_Optimizer/
+Algorithm_teamproject/
 ├── src/
 │   └── main.py                   # Main script for filter selection and application
 ├── README.md                # Project documentation
