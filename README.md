@@ -49,5 +49,6 @@ Developed with **Python 3.12**.
 
 Navigate and run `main.py` to start :
    ```bash
+   cd src
    python main.py
    ```
