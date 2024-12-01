@@ -25,8 +25,10 @@ The directory structure for this repository is as follows:
 
 <pre>
 Exemplary_Timetable_Optimizer/
-├── Exemplary_Scheduler.py   # Main program (Greedy & Backtracking implementation)
+├── src/
+│   └── main.py                   # Main script for filter selection and application
 ├── README.md                # Project documentation
+├── TODO.md                  # TO DO list
 └── LICENSE                  # MIT License
 </pre>
 
