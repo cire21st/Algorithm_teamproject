@@ -42,8 +42,6 @@ Exemplary_Timetable_Optimizer/
 4. **Timetable Optimization**:
    - Uses Backtracking to ensure both credit and requirement fulfillment.
 
----
-
 ## How to Run
 
 ### 1. **Run the Application**  
@@ -54,3 +52,6 @@ Navigate and run `main.py` to start :
    cd src
    python main.py
    ```
+
+## License
+This project is distributed under the MIT License.
