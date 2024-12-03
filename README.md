@@ -42,17 +42,33 @@ Algorithm_teamproject/
 
 ## Key Features
 1. **Automated Timetable Generation**:
-   - Greedy algorithm for quick initial timetable creation.
-   - Backtracking algorithm for further optimization.
-2. **Automatic Addition of Core Subjects**:
-   - Core major and general education courses are automatically added when their names are entered.
+   - **Greedy Algorithm**:
+     - Quickly generates an initial timetable based on priority.
+     - Prioritization: Major > Required Courses > High Credits > Early Ending Times.
+   - **Backtracking Algorithm**:
+     - Optimizes the initial timetable by exploring all possible combinations.
+     - Ensures the maximum number of credits and fulfillment of conditions.
+2. **Required Course Management**:
+   - **Automatic Inclusion of Required Courses**:
+     - Predefined required courses (e.g., Major A, Major B) are automatically added to the timetable upon input.
+   - **Conflict Resolution**:
+     - Required courses are prioritized and always included in the timetable.
+     - Courses with lower priority are excluded when there are time conflicts.
 3. **Conflict-Free Scheduling**:
    - Ensures no time overlaps between lectures.
 4. **Credit Management**:
    - Tracks total credits, major credits, and general credits.
    - Ensures graduation requirements are met.
-5. **Conflict Resolution**:
-   - Automatically excludes lower-priority courses during time conflicts.
+5. **Priority-Based Timetable Optimization**:
+   - **Time Conflict Resolution**:
+     - Resolves time conflicts by excluding courses based on priority.
+     - Priority Order:
+       1. Major
+       2. Required
+       3. High Credits
+       4. General.
+   - **Exclusion Management**:
+     - Courses excluded due to conflicts are not re-added to the timetable.
 6. **User-Friendly Interface**:
    - Intuitive GUI for inputting course details and visualizing timetables.
 
@@ -89,6 +105,8 @@ Navigate and run `Exemplary_Scheduler.py` to start :
    - Displays total credits, major credits, and general credits to track progress toward graduation.
 
 
+### **Key Benefit**
+This program goes beyond a simple timetable creation tool to become an **Personalized Class Scheduler** designed to manage credits and meet graduation requirements efficiently. It is particularly valuable for students who need to handle complex schedules while maximizing their academic achievements. 😊
 
 ## License
 This project is distributed under the MIT License.
