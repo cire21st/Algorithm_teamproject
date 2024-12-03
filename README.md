@@ -54,8 +54,17 @@ Algorithm_teamproject/
    - **Conflict Resolution**:
      - Required courses are prioritized and always included in the timetable.
      - Courses with lower priority are excluded when there are time conflicts.
-3. **Conflict-Free Scheduling**:
-   - Ensures no time overlaps between lectures.
+3. **Priority-Based Timetable Optimization**:
+   - **Time Conflict Resolution**:
+     - Resolves time conflicts by excluding courses based on priority.
+     - Ensures no time overlaps between lectures.
+     - Priority Order:
+       1. Major
+       2. Required
+       3. High Credits
+       4. General.
+   - **Exclusion Management**:
+     - Courses excluded due to conflicts are not re-added to the timetable.
 4. **Credit Management**:
    - Tracks total credits, major credits, and general credits.
    - Ensures graduation requirements are met.
