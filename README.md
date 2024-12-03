@@ -48,7 +48,7 @@ Algorithm_teamproject/
    - Core major and general education courses are automatically added when their names are entered.
 3. **Conflict-Free Scheduling**:
    - Ensures no time overlaps between lectures.
-4.  **Credit Management**:
+4. **Credit Management**:
    - Tracks total credits, major credits, and general credits.
    - Ensures graduation requirements are met.
 5. **Conflict Resolution**:
