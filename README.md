@@ -16,7 +16,7 @@ This system automatically manages **core subjects**, such as major and general e
 | Name    | GitHub Profile                                         | Email                                                |
 |---------|--------------------------------------------------------|------------------------------------------------------|
 | 박준우   | [<img src="https://img.shields.io/badge/GitHub-cire21st-black?logo=github" alt="cire21st">](https://github.com/cire21st)               | <img src="https://img.shields.io/badge/junu321kr@gmail.com-blue" alt="junu321kr@gmail.com">  |
-| 홍성준   | [<img src="https://img.shields.io/badge/GitHub-cire21st-black?logo=github" alt="HongSeongJoon">](https://github.com/)               | <img src="https://img.shields.io/badge/-blue" alt="sjhong0220@gmail.com">  |
+| 홍성준   | [<img src="https://img.shields.io/badge/GitHub-cire21st-black?logo=github" alt="HongSeongJoon">](https://github.com/HongSeongJoon)               | <img src="https://img.shields.io/badge/sjhong0220@gmail.com-blue" alt="sjhong0220@gmail.com">  |
 | 최예빈   | [<img src="https://img.shields.io/badge/GitHub-cire21st-black?logo=github" alt="">](https://github.com/)               | <img src="https://img.shields.io/badge/-blue" alt="">  |
 | 정수현   | [<img src="https://img.shields.io/badge/GitHub-cire21st-black?logo=github" alt="">](https://github.com/)               | <img src="https://img.shields.io/badge/-blue" alt="">  |
 
