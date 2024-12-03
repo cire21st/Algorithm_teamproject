@@ -26,7 +26,7 @@ This project aims to address these challenges by automating the process using ad
 | 박준우   | [<img src="https://img.shields.io/badge/GitHub-cire21st-black?logo=github" alt="cire21st">](https://github.com/cire21st)               | <img src="https://img.shields.io/badge/junu321kr@gmail.com-blue" alt="junu321kr@gmail.com">  |
 | 홍성준   | [<img src="https://img.shields.io/badge/GitHub-HongSeongJoon-black?logo=github" alt="HongSeongJoon">](https://github.com/HongSeongJoon)               | <img src="https://img.shields.io/badge/sjhong0220@gmail.com-blue" alt="sjhong0220@gmail.com">  |
 | 최예빈   | [<img src="https://img.shields.io/badge/GitHub-YeBeenChoi-black?logo=github" alt="YeBeenChoi">](https://github.com/YeBeenChoi)               | <img src="https://img.shields.io/badge/yebin607@gachon.ac.kr-blue" alt="yebin607@gachon.ac.kr">  |
-| 정수현   | [<img src="https://img.shields.io/badge/GitHub-sh--j1-black?logo=github" alt="sh-j1">](https://github.com/sh-j1)               | <img src="https://img.shields.io/badge/-blue" alt="">  |
+| 정수현   | [<img src="https://img.shields.io/badge/GitHub-sh--j1-black?logo=github" alt="sh-j1">](https://github.com/sh-j1)               | <img src="https://img.shields.io/badge/svfavd@gachon.ac.kr-blue" alt="svfavd@gachon.ac.kr">  |
 
 ## Project Structure
 The directory structure for this repository is as follows:
