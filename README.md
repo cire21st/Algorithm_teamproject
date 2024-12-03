@@ -12,6 +12,14 @@ This repository is dedicated to the Algorithm team project for the Algorithm Cou
 The "Personalized Class Scheduler" is a program designed for students who value academic efficiency. By utilizing **Greedy Algorithm** and **Backtracking**, the system generates an optimal timetable that fulfills graduation requirements while maximizing credit hours.
 This system automatically manages **core subjects**, such as major and general education requirements, and generates a conflict-free schedule tailored to the user's preferences. Users can define credit limits and quickly view their optimized timetable.
 
+**Motivation**
+Students often face challenges in creating a timetable that balances:
+1. Meeting graduation requirements for major and general education credits.
+2. Avoiding scheduling conflicts between courses.
+3. Maximizing the number of credits taken per semester.
+This project aims to address these challenges by automating the process using advanced algorithms and providing a user-friendly interface for easy management.
+
+
 ## Team Members
 | Name    | GitHub Profile                                         | Email                                                |
 |---------|--------------------------------------------------------|------------------------------------------------------|
