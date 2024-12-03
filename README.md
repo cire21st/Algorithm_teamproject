@@ -89,6 +89,7 @@ Algorithm_teamproject/
 - **Algorithms**:
   - Greedy Algorithm for initial scheduling.
   - Backtracking Algorithm for exploring and selecting optimal schedules.
+
 ---
 
 ## How to Run
@@ -112,7 +113,20 @@ Navigate and run `Exemplary_Scheduler.py` to start :
 3. **Output**:
    - Visualizes the timetable in a grid format.
    - Displays total credits, major credits, and general credits to track progress toward graduation.
+---
 
+### **Result Comparison**
+- **Comparison of Greedy and Backtracking Results**:
+  - Displays both the initial timetable (Greedy) and the optimized timetable (Backtracking).
+  - Enables users to compare the two results and choose the most suitable one.
+
+
+
+### **Expandability**
+- **Integration of User Preferences**:
+  - Can incorporate user preferences such as excluding specific days or time slots (potential additional feature).
+- **Support for Additional Algorithms**:
+  - Can be extended to include other optimization algorithms like Dynamic Programming.
 
 ### **Key Benefit**
 This program goes beyond a simple timetable creation tool to become an **Personalized Class Scheduler** designed to manage credits and meet graduation requirements efficiently. It is particularly valuable for students who need to handle complex schedules while maximizing their academic achievements. 😊
