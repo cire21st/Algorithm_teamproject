@@ -41,14 +41,30 @@ Algorithm_teamproject/
 </pre>
 
 ## Key Features
-1. **Automatic Addition of Core Subjects**:
+1. **Automated Timetable Generation**:
+   - Greedy algorithm for quick initial timetable creation.
+   - Backtracking algorithm for further optimization.
+2. **Automatic Addition of Core Subjects**:
    - Core major and general education courses are automatically added when their names are entered.
-2. **Conflict-Free Scheduling**:
+3. **Conflict-Free Scheduling**:
    - Ensures no time overlaps between lectures.
-3. **Customizable Credit Limits**:
-   - Minimum of 12 credits and a maximum of 18 credits can be set.
-4. **Timetable Optimization**:
-   - Uses Backtracking to ensure both credit and requirement fulfillment.
+4.  **Credit Management**:
+   - Tracks total credits, major credits, and general credits.
+   - Ensures graduation requirements are met.
+5. **Conflict Resolution**:
+   - Automatically excludes lower-priority courses during time conflicts.
+6. **User-Friendly Interface**:
+   - Intuitive GUI for inputting course details and visualizing timetables.
+
+## **Technologies Used**
+- **Programming Language**: Python
+- **Libraries**:
+  - `tkinter` for GUI development.
+  - Built-in Python algorithms for scheduling optimization.
+- **Algorithms**:
+  - Greedy Algorithm for initial scheduling.
+  - Backtracking Algorithm for exploring and selecting optimal schedules.
+---
 
 ## How to Run
 
@@ -60,6 +76,19 @@ Navigate and run `Exemplary_Scheduler.py` to start :
    cd src
    python Exemplary_Scheduler.py
    ```
+
+### **How It Works**
+1. **Input**:
+   - Users input course details (name, days, start/end times, credits, type, and required status) via a GUI.
+   - Predefined required courses are automatically included.
+2. **Processing**:
+   - The system processes the input using the Greedy algorithm to create a quick, conflict-free timetable.
+   - Backtracking optimizes the timetable by exploring all possible combinations.
+3. **Output**:
+   - Visualizes the timetable in a grid format.
+   - Displays total credits, major credits, and general credits to track progress toward graduation.
+
+
 
 ## License
 This project is distributed under the MIT License.
