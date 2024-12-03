@@ -26,7 +26,7 @@ The directory structure for this repository is as follows:
 <pre>
 Algorithm_teamproject/
 ├── src/
-│   └── main.py                   # Main script for filter selection and application
+│   └── Exemplary_Scheduler.py                   # Main script for filter selection and application
 ├── README.md                # Project documentation
 ├── TODO.md                  # TO DO list
 └── LICENSE                  # MIT License
@@ -47,10 +47,10 @@ Algorithm_teamproject/
 ### 1. **Run the Application**  
 Developed with **Python 3.12**.
 
-Navigate and run `main.py` to start :
+Navigate and run `Exemplary_Scheduler.py` to start :
    ```bash
    cd src
-   python main.py
+   python Exemplary_Scheduler.py
    ```
 
 ## License
